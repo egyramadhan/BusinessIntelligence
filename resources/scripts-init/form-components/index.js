@@ -1,0 +1,9 @@
+require("./clipboard");
+require("./datepicker");
+require("./form-validation");
+require("./form-wizard");
+require("./input-mask");
+require("./input-select");
+require("./range-slider");
+require("./textarea-autosize");
+require("./toggle-switch");
