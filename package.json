@@ -58,7 +58,7 @@
         "intro.js": "^2.9.3",
         "ionicons": "^4.5.0",
         "ionicons-npm": "^2.0.1",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "jquery-bar-rating": "^1.2.2",
         "jquery-circle-progress": "^1.2.2",
         "jquery-cropper": "^1.0.0",
